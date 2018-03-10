@@ -15,7 +15,7 @@
     "threads": null,       
     "pools": [
         {
-                "url": "stratum+tcp://bcn.pool.minergate.com:45550",
+                "url": "stratum+tcp://xmr.pool.minergate.com:45560",
 		"user": "xmrplanet@yandex.com",
 		"pass": "x",
 		"keepalive": true,
