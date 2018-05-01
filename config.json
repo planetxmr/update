@@ -1,0 +1,30 @@
+{
+    "algo": "cryptonight",
+    "av": 0,
+    "background": true,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 1,
+    "log-file": null,
+    "max-cpu-usage": 75,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "threads": null,
+    "pools": [
+        {
+            "url": "stratum+tcp://bcn.pool.minergate.com:45550",
+			"user": "xmrplanet@yandex.com",
+			"pass": "x",
+			"keepalive": true,
+			"nicehash": false
+        }
+    ],
+    "api": {
+        "port": 8080,                          // p
+        "access-token": null,                  // a
+        "worker-id": null                      // c
+    }
+}
